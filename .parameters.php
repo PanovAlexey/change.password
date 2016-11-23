@@ -6,7 +6,4 @@ use Bitrix\Main\Localization\Loc;
 
 Loc::loadMessages(__FILE__);
 
-$arComponentParameters = ['PARAMETERS' => ['CACHE_TIME' => ['DEFAULT' => 36000000],
-                                           'AJAX_MODE'  => []
-
-]];
+$arComponentParameters = ['PARAMETERS' => ['AJAX_MODE' => []]];

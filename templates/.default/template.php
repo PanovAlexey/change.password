@@ -79,7 +79,7 @@ use Bitrix\Main\Localization\Loc;
         </form>
     </div>
 </div>
- 
+
 
 <script type="text/javascript">
     document.bform.USER_LOGIN.focus();
